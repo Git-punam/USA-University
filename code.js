@@ -27,7 +27,4 @@ fetch(url)
             document.querySelector(".usa-university").innerHTML = "Click here to go to the website of "+data[i].name
         })
     }
-
-
-
-})
+});
